@@ -5137,7 +5137,7 @@ a.close.disabled {
   flex-shrink: 0;
 }
 .modal-dialog-scrollable .modal-body {
-  overflow-y: auto;
+  overflow-y: scroll;
 }
 
 .modal-dialog-centered {
