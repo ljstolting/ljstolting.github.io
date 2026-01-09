@@ -3900,7 +3900,7 @@ input[type=button].btn-block {
   border: 1px solid transparent;
 }
 .navbar-toggler:hover, .navbar-toggler:focus {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .navbar-toggler-icon {
