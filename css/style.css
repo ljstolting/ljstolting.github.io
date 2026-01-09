@@ -1654,14 +1654,14 @@ pre code {
 .table td {
   padding: 0.75rem;
   vertical-align: top;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid #ACD2D8;
 }
 .table thead th {
   vertical-align: bottom;
-  border-bottom: 2px solid #dee2e6;
+  border-bottom: 2px solid #ACD2D8;
 }
 .table tbody + tbody {
-  border-top: 2px solid #dee2e6;
+  border-top: 2px solid #ACD2D8;
 }
 
 .table-sm th,
@@ -1670,11 +1670,11 @@ pre code {
 }
 
 .table-bordered {
-  border: 1px solid #dee2e6;
+  border: 1px solid #ACD2D8;
 }
 .table-bordered th,
 .table-bordered td {
-  border: 1px solid #dee2e6;
+  border: 1px solid #ACD2D8;
 }
 .table-bordered thead th,
 .table-bordered thead td {
@@ -1700,21 +1700,21 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #c3cdda;
+  background-color: #ACD2D8;
 }
 .table-primary th,
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #90a1bb;
+  border-color: #ACD2D8;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #b3c0d0;
+  background-color: #ACD2D8;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #b3c0d0;
+  background-color: #ACD2D8;
 }
 
 .table-secondary,
@@ -1879,7 +1879,7 @@ pre code {
 .table .thead-light th {
   color: #495057;
   background-color: #ACD2D8;
-  border-color: #dee2e6;
+  border-color: #3B747D;
 }
 
 .table-dark {
@@ -1889,7 +1889,7 @@ pre code {
 .table-dark th,
 .table-dark td,
 .table-dark thead th {
-  border-color: #454d55;
+  border-color: #2A3D45;
 }
 .table-dark.table-bordered {
   border: 0;
