@@ -3768,7 +3768,7 @@ input[type=button].btn-block {
   padding: 0.5rem 1rem;
 }
 .nav-link:hover, .nav-link:focus {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -4245,7 +4245,7 @@ input[type=button].btn-block {
 }
 
 .card-link:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .card-link + .card-link {
   margin-left: 1.25rem;
@@ -4380,7 +4380,7 @@ input[type=button].btn-block {
   text-decoration: underline;
 }
 .breadcrumb-item + .breadcrumb-item:hover::before {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .breadcrumb-item.active {
   color: #6c757d;
@@ -4405,7 +4405,7 @@ input[type=button].btn-block {
 .page-link:hover {
   z-index: 2;
   color: #172843;
-  text-decoration: none;
+  text-decoration: underline;
   background-color: #ACD2D8;
   border-color: #ACD2D8;
 }
@@ -4459,7 +4459,7 @@ input[type=button].btn-block {
   }
 }
 a.badge:hover, a.badge:focus {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .badge:empty {
@@ -4791,7 +4791,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item-action:hover, .list-group-item-action:focus {
   z-index: 1;
   color: #495057;
-  text-decoration: none;
+  text-decoration: underline;
   background-color: #f8f9fa;
 }
 .list-group-item-action:active {
@@ -5034,7 +5034,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 .close:hover {
   color: #000;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .close:not(:disabled):not(.disabled):hover, .close:not(:disabled):not(.disabled):focus {
   opacity: 0.75;
