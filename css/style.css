@@ -418,7 +418,7 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid #ACD2D8;
 }
 
 small,
@@ -476,7 +476,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #f1f3ff;
+  background-color: #ACD2D8;
   border: 1px solid #ACD2D8;
   max-width: 100%;
   height: auto;
@@ -1689,7 +1689,7 @@ pre code {
 }
 
 .table-striped tbody tr:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: #ACD2D8;
 }
 
 .table-hover tbody tr:hover {
