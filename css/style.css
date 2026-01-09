@@ -155,7 +155,7 @@ sup {
 }
 
 a {
-  color: #3B747D;
+  color: #2A3D45;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3860,7 +3860,7 @@ input[type=button].btn-block {
   color: #2A3D45;
 }
 .navbar-brand:hover, .navbar-brand:focus {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .navbar-nav {
@@ -5779,6 +5779,10 @@ button.bg-primary:focus {
 
 .bg-secondary {
   background-color: #3B747D !important;
+}
+
+.bg-dark{
+  background-color: #2A3D45 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
