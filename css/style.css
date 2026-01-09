@@ -1896,11 +1896,11 @@ pre code {
   border: 0;
 }
 .table-dark.table-striped tbody tr:nth-of-type(odd) {
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: #ACD2D8;
 }
 .table-dark.table-hover tbody tr:hover {
   color: #f5e8da;
-  background-color: rgba(255, 255, 255, 0.075);
+  background-color: #ACD2D8;
 }
 
 @media (max-width: 575.98px) {
