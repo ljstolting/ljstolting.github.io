@@ -3834,6 +3834,7 @@ input[type=button].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  background-color: #2A3D45;
   padding: 0.5rem 1rem;
 }
 .navbar .container,
@@ -3865,6 +3866,7 @@ input[type=button].btn-block {
   flex-direction: column;
   padding-left: 0;
   margin-bottom: 0;
+  background-color: #2A3D45;
   list-style: none;
 }
 .navbar-nav .nav-link {
