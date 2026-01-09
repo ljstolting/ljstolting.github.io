@@ -5783,14 +5783,20 @@ button.bg-primary:focus {
   background-color: #3B747D !important;
 }
 
-.bg-dark{
-  background-color: #2A3D45 !important;
-}
-
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
   background-color: #101622 !important;
+}
+
+.bg-dark{
+  background-color: #2A3D45 !important;
+}
+
+a.bg-dark:hover, a.bg-dark:focus,
+button.bg-dark:hover,
+button.bg-dark:focus {
+  background-color: #3B747D !important;
 }
 
 .bg-success {
