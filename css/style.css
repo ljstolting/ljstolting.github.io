@@ -5764,7 +5764,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #3B747D !important;
+  background-color: #ACD2D8 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -5824,7 +5824,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f1f3ff !important;
+  background-color: #ACD2D8 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -5892,11 +5892,11 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #2A3D45 !important;
+  border-color: #ACD2D8 !important;
 }
 
 .border-secondary {
-  border-color: #202C45 !important;
+  border-color: #3B747D !important;
 }
 
 .border-success {
@@ -5916,7 +5916,7 @@ button.bg-dark:focus {
 }
 
 .border-light {
-  border-color: #f1f3ff !important;
+  border-color: #ACD2D8 !important;
 }
 
 .border-dark {
