@@ -21,8 +21,8 @@
   --white: #F5E8DA; /*(changed to cream) */
   --gray: #6c757d;
   --gray-dark: #3B747D;
-  --primary: #2A3D45;
-  --secondary: #202C45;
+  --primary: #3B747D;
+  --secondary: #2A3D45;
   --success: #28a745;
   --info: #17a2b8;
   --warning: #ffc107;
@@ -155,7 +155,7 @@ sup {
 }
 
 a {
-  color: #2A3D45;
+  color: #3B747D;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2420,7 +2420,7 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #f5e8da;
-  background-color: #203a5f;
+  background-color: #2A3D45;
   border-color: #1d3456;
 }
 .btn-primary:focus, .btn-primary.focus {
@@ -3805,7 +3805,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #f5e8da;
-  background-color: #2A3D45;
+  background-color: #3B747D;
 }
 
 .nav-fill > .nav-link,
@@ -5774,7 +5774,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #ACD2D8 !important;
+  background-color: #2A3D45 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
