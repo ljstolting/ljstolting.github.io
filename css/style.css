@@ -1820,13 +1820,13 @@ pre code {
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fbfcff;
+  background-color: #ACD2D8;
 }
 .table-light th,
 .table-light td,
 .table-light thead th,
 .table-light tbody + tbody {
-  border-color: #f8f9ff;
+  border-color: #ACD2D8;
 }
 
 .table-hover .table-light:hover {
@@ -2803,28 +2803,28 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-light {
-  color: #f1f3ff;
-  border-color: #f1f3ff;
+  color: #ACD2D8;
+  border-color: #ACD2D8;
 }
 .btn-outline-light:hover {
   color: #212529;
-  background-color: #f1f3ff;
-  border-color: #f1f3ff;
+  background-color: #ACD2D8;
+  border-color: #ACD2D8;
 }
 .btn-outline-light:focus, .btn-outline-light.focus {
-  box-shadow: 0 0 0 0.2rem rgba(241, 243, 255, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(172, 210, 216, 0.5);
 }
 .btn-outline-light.disabled, .btn-outline-light:disabled {
-  color: #f1f3ff;
+  color: #ACD2D8;
   background-color: transparent;
 }
 .btn-outline-light:not(:disabled):not(.disabled):active, .btn-outline-light:not(:disabled):not(.disabled).active, .show > .btn-outline-light.dropdown-toggle {
   color: #212529;
-  background-color: #f1f3ff;
-  border-color: #f1f3ff;
+  background-color: #ACD2D8;
+  border-color: #ACD2D8;
 }
 .btn-outline-light:not(:disabled):not(.disabled):active:focus, .btn-outline-light:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-light.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(241, 243, 255, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(172, 210, 216, 0.5);
 }
 
 .btn-outline-dark {
