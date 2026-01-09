@@ -9768,7 +9768,7 @@ h3 {
 
   .wrapper .sidebar::-webkit-scrollbar-thumb {
     background-color: #ACD2D8;
-    outline: 1px solid slategrey;
+    outline: 1px solid #ACD2D8;
     border-radius: 7px;
   }
 }
