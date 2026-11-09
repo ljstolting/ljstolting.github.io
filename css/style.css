@@ -210,7 +210,8 @@ caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
   color: #6c757d;
-  text-align: left;
+  font-size: smaller;
+  text-align: justify;
   caption-side: bottom;
 }
 
